@@ -57,6 +57,12 @@ public class Student {
         List<Student> studentWhoseIdIsGreaterThan4 = filterStudent(students, (student -> student.getId() > 4));
         System.out.println(studentWhoseIdIsGreaterThan4);
 
+        /**
+         * Sort students based on age
+         */
+        List<Student> sortedStudents = sortAListBasedOnAge(students);
+        System.out.println(sortedStudents);
+
     }
 
     /**
@@ -75,5 +81,13 @@ public class Student {
             }
         }
         return filteredStudents;
+    }
+
+    /**
+     * To sort the student list based on age
+     */
+    public static List<Student> sortAListBasedOnAge(List<Student> students) {
+        students.sort((s1, s2) -> s2.getAge() - s1.getAge());
+        return students;
     }
 }
