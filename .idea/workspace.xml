@@ -91,8 +91,20 @@
       <file leaf-file-name="PredicateAndBiPredicateExplained.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/chapter3/PredicateAndBiPredicateExplained.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="34" selection-start-line="0" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+            <state relative-caret-position="352">
+              <caret line="22" column="31" selection-start-line="16" selection-start-column="8" selection-end-line="22" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsumerExplained.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/chapter3/ConsumerExplained.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="37" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -104,8 +116,8 @@
         <entry file="file://$PROJECT_DIR$/Documentation/FunctionalInterface.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="299">
-                <caret line="116" column="17" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="17" />
+              <first_editor relative-caret-position="409">
+                <caret line="171" column="0" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -205,6 +217,7 @@
         <option value="$PROJECT_DIR$/src/main/java/chapter3/ExecuteAroundPattern.java" />
         <option value="$PROJECT_DIR$/src/main/java/chapter3/PredicateExplained.java" />
         <option value="$PROJECT_DIR$/src/main/java/chapter3/PredicateAndBiPredicateExplained.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chapter3/ConsumerExplained.java" />
         <option value="$PROJECT_DIR$/Documentation/FunctionalInterface.md" />
       </list>
     </option>
@@ -401,27 +414,7 @@
       <recent name="C:\Users\Adwiti\BasicsOfJava8InAction\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PredicateAndBiPredicateExplained">
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="chapter2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="chapter2.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="BasicsOfJava8InAction" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.ConsumerExplained">
     <configuration default="false" name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -490,6 +483,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="chapter3.PredicateAndBiPredicateExplained" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BasicsOfJava8InAction" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ConsumerExplained" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="chapter3.ConsumerExplained" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -939,19 +952,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Student" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ExecuteAroundPattern" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PredicateExplained" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PredicateAndBiPredicateExplained" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Student" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ExecuteAroundPattern" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PredicateExplained" />
+      <item index="3" class="java.lang.String" itemvalue="Application.PredicateAndBiPredicateExplained" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ConsumerExplained" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PredicateAndBiPredicateExplained" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PredicateExplained" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ExecuteAroundPattern" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Student" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ConsumerExplained" />
+        <item index="1" class="java.lang.String" itemvalue="Application.PredicateAndBiPredicateExplained" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PredicateExplained" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ExecuteAroundPattern" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Student" />
       </list>
     </recent_temporary>
   </component>
@@ -1039,38 +1052,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/chapter2/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Documentation/LambdaExpression.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1782">
-            <caret line="81" column="77" selection-start-line="81" selection-start-column="77" selection-end-line="81" selection-end-column="77" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1483,8 +1464,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/chapter3/PredicateAndBiPredicateExplained.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="31" selection-start-line="16" selection-start-column="8" selection-end-line="22" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.16.16/lombok-1.16.16.jar!/lombok/ToString.class">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="8" column="34" selection-start-line="0" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chapter3/ConsumerExplained.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="37" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1494,8 +1493,8 @@
     <entry file="file://$PROJECT_DIR$/Documentation/FunctionalInterface.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="299">
-            <caret line="116" column="17" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="17" />
+          <first_editor relative-caret-position="409">
+            <caret line="171" column="0" selection-start-line="171" selection-start-column="0" selection-end-line="171" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
